@@ -1,0 +1,24 @@
+---
+codename: bufale
+title: Mozzarelle di Bufala
+main_topics: [ ingenuity ]
+topics: []
+similar_problems: [ marea ]
+try_next: marea
+try_before: 
+appello_algoritmi:
+TAL_esercizi: [ algo, RO, DODM ]
+TAL_homeworks: [ algo, RO, DODM ]
+training:
+  URL: https://training.olinfo.it/task/oii_bufale
+  evento: Finale Nazionale delle Oii
+  year: 2013 (Salerno)
+materiali:
+  scritti:
+  video_presentazione:
+  video_discussione:
+  video_soluzione:
+  video_codifica:
+  tutorial:
+
+...
