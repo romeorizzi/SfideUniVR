@@ -1,0 +1,18 @@
+# Programmazione Dinamica
+
+- [poldo_bis](../../problemi/poldo_bis)
+- [collage](../../problemi/collage)
+- [conio2](../../problemi/conio2)
+- [quanti_poldo](../../problemi/quanti_poldo)
+- [down_to_the_origin](../../problemi/down_to_the_origin)
+- [poldo_mania](../../problemi/poldo_mania)
+- [lists_alignment](../../problemi/lists_alignment)
+- [mostra](../../problemi/mostra)
+- [funghi](../../problemi/funghi)
+- [prima_PD_su_linea](../../problemi/prima_PD_su_linea)
+- [prima_PD_su_linea_fast_exp](../../problemi/prima_PD_su_linea_fast_exp)
+- [pianostudi](../../problemi/pianostudi)
+- [prima_PD_su_linea_interactive](../../problemi/prima_PD_su_linea_interactive)
+- [prima_PD_non_locale_su_linea](../../problemi/prima_PD_non_locale_su_linea)
+- [brothers_in_arms](../../problemi/brothers_in_arms)
+- [conio3](../../problemi/conio3)
