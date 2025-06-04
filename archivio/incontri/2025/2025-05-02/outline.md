@@ -1,4 +1,4 @@
-# Incontro 2025-05-02 (Zoom, 8:00-8:30, 2 ore)
+# Incontro 2025-05-02 (Zoom, 8:00-10:00, 2 ore)
 
 Oggi abbiamo lavorato col codice da voi scritto per risolvere il problema `spiedini di frutta`.
 Abbiamo segnalato esplorato il servizio offerto dalla piattaforma di training per le oii che consente di sottomettere una soluzione per ricevere valutazione e feedback.
